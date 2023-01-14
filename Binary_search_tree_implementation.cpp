@@ -64,12 +64,12 @@ int main()
 {
     node* root=NULL;
 
-    root = insert(root,15);	
-	root = insert(root,10);	
-	root = insert(root,20);
-	root = insert(root,25);
-	root = insert(root,8);
-	root = insert(root,12);
+    root= insert(root,15);	
+	 insert(root,10);	
+	 insert(root,20);
+	 insert(root,25);
+	 insert(root,8);
+	 insert(root,12);
 
     int number;
 	cout<<"Enter number be searched\n";
